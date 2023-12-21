@@ -1,7 +1,7 @@
 # React + Vite
 
 ```
-git clone https://github.com/DaithiGeary/DataVisAssignment4.git
+git clone https://github.com/DaithiGeary/fifa-vis.git
 cd ./fifa-vis
 npm install
 npm run dev
